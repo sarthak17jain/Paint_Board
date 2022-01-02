@@ -1,5 +1,4 @@
 # Paint Board
-Paint Application
 **Checkout Live Website at: https://sarthak17jain.github.io/Paint_Board/**
 
 Features:<br>
